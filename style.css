@@ -1,3 +1,46 @@
-.blue{
-    color: blue;
+ .container{
+     margin-top: 100px;
+ }
+ .see-all{
+     margin-top: 30px;
+     cursor: pointer;
+ }
+ .buy-now{
+     color: #eeeeee;
+     background-color: black;
+     border-radius: 8px;
+     padding: 9px 20px;
+     cursor: pointer;
+ }
+ .text{
+     text-align: end;
+     margin-top: 0;
+     color: coral;
+ }
+ .card{
+     border: none;
+     box-shadow: 5px 5px 10px;
+     border-radius: 10px;
+ }
+ .cate{
+     text-align: center;
+     text-decoration: underline;
+ }
+.container2{
+    border: none;
+    box-shadow: 5px 5px 10px;
+    border-radius: 10px;
+    margin-top: 10%;
+    image-resolution: ;
+}
+.container3{
+    margin-top: 120px;
+    border: none;
+    box-shadow: 5px 5px 10px;
+    border-radius: 10px;
+}
+.tex2{
+    text-align: center;
+}
+    
 }
